@@ -1,0 +1,6 @@
+D:\Programming\VisualC#\Week4\UpperCaseOnly\UpperCaseOnly\bin\Debug\UpperCaseOnly.exe
+D:\Programming\VisualC#\Week4\UpperCaseOnly\UpperCaseOnly\bin\Debug\UpperCaseOnly.pdb
+D:\Programming\VisualC#\Week4\UpperCaseOnly\UpperCaseOnly\obj\Debug\UpperCaseOnly.csprojAssemblyReference.cache
+D:\Programming\VisualC#\Week4\UpperCaseOnly\UpperCaseOnly\obj\Debug\UpperCaseOnly.csproj.CoreCompileInputs.cache
+D:\Programming\VisualC#\Week4\UpperCaseOnly\UpperCaseOnly\obj\Debug\UpperCaseOnly.exe
+D:\Programming\VisualC#\Week4\UpperCaseOnly\UpperCaseOnly\obj\Debug\UpperCaseOnly.pdb

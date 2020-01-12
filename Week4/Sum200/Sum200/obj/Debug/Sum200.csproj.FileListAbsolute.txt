@@ -1,0 +1,6 @@
+D:\Programming\VisualC#\Week4\Sum200\Sum200\bin\Debug\Sum200.exe
+D:\Programming\VisualC#\Week4\Sum200\Sum200\bin\Debug\Sum200.pdb
+D:\Programming\VisualC#\Week4\Sum200\Sum200\obj\Debug\Sum200.csprojAssemblyReference.cache
+D:\Programming\VisualC#\Week4\Sum200\Sum200\obj\Debug\Sum200.csproj.CoreCompileInputs.cache
+D:\Programming\VisualC#\Week4\Sum200\Sum200\obj\Debug\Sum200.exe
+D:\Programming\VisualC#\Week4\Sum200\Sum200\obj\Debug\Sum200.pdb

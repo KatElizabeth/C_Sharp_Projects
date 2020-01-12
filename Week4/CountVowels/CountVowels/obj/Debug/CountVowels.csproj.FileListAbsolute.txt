@@ -1,0 +1,9 @@
+D:\Programming\VisualC#\Week4\CountVowels\CountVowels\bin\Debug\CountVowels.exe
+D:\Programming\VisualC#\Week4\CountVowels\CountVowels\bin\Debug\CountVowels.pdb
+D:\Programming\VisualC#\Week4\CountVowels\CountVowels\obj\Debug\CountVowels.csprojAssemblyReference.cache
+D:\Programming\VisualC#\Week4\CountVowels\CountVowels\obj\Debug\CountVowels.CountVowels.resources
+D:\Programming\VisualC#\Week4\CountVowels\CountVowels\obj\Debug\CountVowels.Properties.Resources.resources
+D:\Programming\VisualC#\Week4\CountVowels\CountVowels\obj\Debug\CountVowels.csproj.GenerateResource.cache
+D:\Programming\VisualC#\Week4\CountVowels\CountVowels\obj\Debug\CountVowels.csproj.CoreCompileInputs.cache
+D:\Programming\VisualC#\Week4\CountVowels\CountVowels\obj\Debug\CountVowels.exe
+D:\Programming\VisualC#\Week4\CountVowels\CountVowels\obj\Debug\CountVowels.pdb
