@@ -1,0 +1,6 @@
+D:\Programming\VisualC#\Week6\Chapter7Test1\Chapter7Test1\bin\Debug\Chapter7Test1.exe
+D:\Programming\VisualC#\Week6\Chapter7Test1\Chapter7Test1\bin\Debug\Chapter7Test1.pdb
+D:\Programming\VisualC#\Week6\Chapter7Test1\Chapter7Test1\obj\Debug\Chapter7Test1.csprojAssemblyReference.cache
+D:\Programming\VisualC#\Week6\Chapter7Test1\Chapter7Test1\obj\Debug\Chapter7Test1.csproj.CoreCompileInputs.cache
+D:\Programming\VisualC#\Week6\Chapter7Test1\Chapter7Test1\obj\Debug\Chapter7Test1.exe
+D:\Programming\VisualC#\Week6\Chapter7Test1\Chapter7Test1\obj\Debug\Chapter7Test1.pdb

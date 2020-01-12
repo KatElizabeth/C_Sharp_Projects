@@ -1,0 +1,6 @@
+D:\Programming\VisualC#\Week6\Commander2019\Commander2019\bin\Debug\Commander2019.exe
+D:\Programming\VisualC#\Week6\Commander2019\Commander2019\bin\Debug\Commander2019.pdb
+D:\Programming\VisualC#\Week6\Commander2019\Commander2019\obj\Debug\Commander2019.csprojAssemblyReference.cache
+D:\Programming\VisualC#\Week6\Commander2019\Commander2019\obj\Debug\Commander2019.csproj.CoreCompileInputs.cache
+D:\Programming\VisualC#\Week6\Commander2019\Commander2019\obj\Debug\Commander2019.exe
+D:\Programming\VisualC#\Week6\Commander2019\Commander2019\obj\Debug\Commander2019.pdb

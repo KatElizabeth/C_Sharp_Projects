@@ -1,0 +1,9 @@
+D:\Programming\VisualC#\Week6\GradeAverages\GradeAverages\bin\Debug\GradeAverages.exe
+D:\Programming\VisualC#\Week6\GradeAverages\GradeAverages\bin\Debug\GradeAverages.pdb
+D:\Programming\VisualC#\Week6\GradeAverages\GradeAverages\obj\Debug\GradeAverages.csprojAssemblyReference.cache
+D:\Programming\VisualC#\Week6\GradeAverages\GradeAverages\obj\Debug\GradeAverages.FrmMain.resources
+D:\Programming\VisualC#\Week6\GradeAverages\GradeAverages\obj\Debug\GradeAverages.Properties.Resources.resources
+D:\Programming\VisualC#\Week6\GradeAverages\GradeAverages\obj\Debug\GradeAverages.csproj.GenerateResource.cache
+D:\Programming\VisualC#\Week6\GradeAverages\GradeAverages\obj\Debug\GradeAverages.csproj.CoreCompileInputs.cache
+D:\Programming\VisualC#\Week6\GradeAverages\GradeAverages\obj\Debug\GradeAverages.exe
+D:\Programming\VisualC#\Week6\GradeAverages\GradeAverages\obj\Debug\GradeAverages.pdb

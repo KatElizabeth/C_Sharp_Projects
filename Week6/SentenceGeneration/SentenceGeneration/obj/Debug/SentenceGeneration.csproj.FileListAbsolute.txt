@@ -1,0 +1,9 @@
+D:\Programming\VisualC#\Week6\SentenceGeneration\SentenceGeneration\bin\Debug\SentenceGeneration.exe
+D:\Programming\VisualC#\Week6\SentenceGeneration\SentenceGeneration\bin\Debug\SentenceGeneration.pdb
+D:\Programming\VisualC#\Week6\SentenceGeneration\SentenceGeneration\obj\Debug\SentenceGeneration.csprojAssemblyReference.cache
+D:\Programming\VisualC#\Week6\SentenceGeneration\SentenceGeneration\obj\Debug\SentenceGeneration.FormMain.resources
+D:\Programming\VisualC#\Week6\SentenceGeneration\SentenceGeneration\obj\Debug\SentenceGeneration.Properties.Resources.resources
+D:\Programming\VisualC#\Week6\SentenceGeneration\SentenceGeneration\obj\Debug\SentenceGeneration.csproj.GenerateResource.cache
+D:\Programming\VisualC#\Week6\SentenceGeneration\SentenceGeneration\obj\Debug\SentenceGeneration.csproj.CoreCompileInputs.cache
+D:\Programming\VisualC#\Week6\SentenceGeneration\SentenceGeneration\obj\Debug\SentenceGeneration.exe
+D:\Programming\VisualC#\Week6\SentenceGeneration\SentenceGeneration\obj\Debug\SentenceGeneration.pdb
