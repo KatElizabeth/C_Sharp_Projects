@@ -1,0 +1,9 @@
+D:\Programming\VisualC#\Week12\GuessANumber\GuessANumber\bin\Debug\GuessANumber.exe
+D:\Programming\VisualC#\Week12\GuessANumber\GuessANumber\bin\Debug\GuessANumber.pdb
+D:\Programming\VisualC#\Week12\GuessANumber\GuessANumber\obj\Debug\GuessANumber.csprojAssemblyReference.cache
+D:\Programming\VisualC#\Week12\GuessANumber\GuessANumber\obj\Debug\GuessANumber.Properties.Resources.resources
+D:\Programming\VisualC#\Week12\GuessANumber\GuessANumber\obj\Debug\GuessANumber.csproj.GenerateResource.cache
+D:\Programming\VisualC#\Week12\GuessANumber\GuessANumber\obj\Debug\GuessANumber.csproj.CoreCompileInputs.cache
+D:\Programming\VisualC#\Week12\GuessANumber\GuessANumber\obj\Debug\GuessANumber.exe
+D:\Programming\VisualC#\Week12\GuessANumber\GuessANumber\obj\Debug\GuessANumber.pdb
+D:\Programming\VisualC#\Week12\GuessANumber\GuessANumber\obj\Debug\GuessANumber.Form1.resources

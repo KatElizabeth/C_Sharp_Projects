@@ -1,0 +1,9 @@
+D:\Programming\VisualC#\Week12\Ch13Events\Ch13Events\bin\Debug\Ch13Events.exe
+D:\Programming\VisualC#\Week12\Ch13Events\Ch13Events\bin\Debug\Ch13Events.pdb
+D:\Programming\VisualC#\Week12\Ch13Events\Ch13Events\obj\Debug\Ch13Events.csprojAssemblyReference.cache
+D:\Programming\VisualC#\Week12\Ch13Events\Ch13Events\obj\Debug\Ch13Events.Form1.resources
+D:\Programming\VisualC#\Week12\Ch13Events\Ch13Events\obj\Debug\Ch13Events.Properties.Resources.resources
+D:\Programming\VisualC#\Week12\Ch13Events\Ch13Events\obj\Debug\Ch13Events.csproj.GenerateResource.cache
+D:\Programming\VisualC#\Week12\Ch13Events\Ch13Events\obj\Debug\Ch13Events.csproj.CoreCompileInputs.cache
+D:\Programming\VisualC#\Week12\Ch13Events\Ch13Events\obj\Debug\Ch13Events.exe
+D:\Programming\VisualC#\Week12\Ch13Events\Ch13Events\obj\Debug\Ch13Events.pdb
