@@ -1,0 +1,6 @@
+D:\Programming\VisualC#\Week10\MathExcept\MathExcept\bin\Debug\MathExcept.exe
+D:\Programming\VisualC#\Week10\MathExcept\MathExcept\bin\Debug\MathExcept.pdb
+D:\Programming\VisualC#\Week10\MathExcept\MathExcept\obj\Debug\MathExcept.csprojAssemblyReference.cache
+D:\Programming\VisualC#\Week10\MathExcept\MathExcept\obj\Debug\MathExcept.csproj.CoreCompileInputs.cache
+D:\Programming\VisualC#\Week10\MathExcept\MathExcept\obj\Debug\MathExcept.exe
+D:\Programming\VisualC#\Week10\MathExcept\MathExcept\obj\Debug\MathExcept.pdb
