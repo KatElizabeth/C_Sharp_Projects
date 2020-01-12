@@ -1,0 +1,6 @@
+D:\Programming\VisualC#\Week7\ReverseFour\ReverseFour\bin\Debug\ReverseFour.exe
+D:\Programming\VisualC#\Week7\ReverseFour\ReverseFour\bin\Debug\ReverseFour.pdb
+D:\Programming\VisualC#\Week7\ReverseFour\ReverseFour\obj\Debug\ReverseFour.csprojAssemblyReference.cache
+D:\Programming\VisualC#\Week7\ReverseFour\ReverseFour\obj\Debug\ReverseFour.csproj.CoreCompileInputs.cache
+D:\Programming\VisualC#\Week7\ReverseFour\ReverseFour\obj\Debug\ReverseFour.exe
+D:\Programming\VisualC#\Week7\ReverseFour\ReverseFour\obj\Debug\ReverseFour.pdb

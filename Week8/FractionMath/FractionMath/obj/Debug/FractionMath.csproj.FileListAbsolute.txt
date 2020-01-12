@@ -1,0 +1,9 @@
+D:\Programming\VisualC#\Week8\FractionMath\FractionMath\bin\Debug\FractionMath.exe
+D:\Programming\VisualC#\Week8\FractionMath\FractionMath\bin\Debug\FractionMath.pdb
+D:\Programming\VisualC#\Week8\FractionMath\FractionMath\obj\Debug\FractionMath.csprojAssemblyReference.cache
+D:\Programming\VisualC#\Week8\FractionMath\FractionMath\obj\Debug\FractionMath.FormMain.resources
+D:\Programming\VisualC#\Week8\FractionMath\FractionMath\obj\Debug\FractionMath.Properties.Resources.resources
+D:\Programming\VisualC#\Week8\FractionMath\FractionMath\obj\Debug\FractionMath.csproj.GenerateResource.cache
+D:\Programming\VisualC#\Week8\FractionMath\FractionMath\obj\Debug\FractionMath.csproj.CoreCompileInputs.cache
+D:\Programming\VisualC#\Week8\FractionMath\FractionMath\obj\Debug\FractionMath.exe
+D:\Programming\VisualC#\Week8\FractionMath\FractionMath\obj\Debug\FractionMath.pdb

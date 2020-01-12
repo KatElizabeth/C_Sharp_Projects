@@ -1,0 +1,6 @@
+D:\Programming\VisualC#\Week7\OutExample\OutExample\bin\Debug\OutExample.exe
+D:\Programming\VisualC#\Week7\OutExample\OutExample\bin\Debug\OutExample.pdb
+D:\Programming\VisualC#\Week7\OutExample\OutExample\obj\Debug\OutExample.csprojAssemblyReference.cache
+D:\Programming\VisualC#\Week7\OutExample\OutExample\obj\Debug\OutExample.csproj.CoreCompileInputs.cache
+D:\Programming\VisualC#\Week7\OutExample\OutExample\obj\Debug\OutExample.exe
+D:\Programming\VisualC#\Week7\OutExample\OutExample\obj\Debug\OutExample.pdb
