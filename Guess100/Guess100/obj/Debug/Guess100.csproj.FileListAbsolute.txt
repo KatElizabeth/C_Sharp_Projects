@@ -1,0 +1,9 @@
+D:\Programming\VisualC#\Week3\Guess\Guess100\Guess100\bin\Debug\Guess100.exe
+D:\Programming\VisualC#\Week3\Guess\Guess100\Guess100\bin\Debug\Guess100.pdb
+D:\Programming\VisualC#\Week3\Guess\Guess100\Guess100\obj\Debug\Guess100.csprojAssemblyReference.cache
+D:\Programming\VisualC#\Week3\Guess\Guess100\Guess100\obj\Debug\Guess100.FormMain.resources
+D:\Programming\VisualC#\Week3\Guess\Guess100\Guess100\obj\Debug\Guess100.Properties.Resources.resources
+D:\Programming\VisualC#\Week3\Guess\Guess100\Guess100\obj\Debug\Guess100.csproj.GenerateResource.cache
+D:\Programming\VisualC#\Week3\Guess\Guess100\Guess100\obj\Debug\Guess100.csproj.CoreCompileInputs.cache
+D:\Programming\VisualC#\Week3\Guess\Guess100\Guess100\obj\Debug\Guess100.exe
+D:\Programming\VisualC#\Week3\Guess\Guess100\Guess100\obj\Debug\Guess100.pdb

@@ -1,0 +1,9 @@
+D:\Programming\VisualC#\Week3\RockPaperScissors\RockPaperScissors\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Programming\VisualC#\Week3\RockPaperScissors\RockPaperScissors\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Programming\VisualC#\Week3\RockPaperScissors\RockPaperScissors\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.formMain.resources
+D:\Programming\VisualC#\Week3\RockPaperScissors\RockPaperScissors\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Programming\VisualC#\Week3\RockPaperScissors\RockPaperScissors\WindowsFormsApp1\obj\Debug\RockPaperScissorsKat.csproj.GenerateResource.cache
+D:\Programming\VisualC#\Week3\RockPaperScissors\RockPaperScissors\WindowsFormsApp1\obj\Debug\RockPaperScissorsKat.csproj.CoreCompileInputs.cache
+D:\Programming\VisualC#\Week3\RockPaperScissors\RockPaperScissors\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Programming\VisualC#\Week3\RockPaperScissors\RockPaperScissors\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Programming\VisualC#\Week3\RockPaperScissors\RockPaperScissors\WindowsFormsApp1\obj\Debug\RockPaperScissorsKat.csprojAssemblyReference.cache
