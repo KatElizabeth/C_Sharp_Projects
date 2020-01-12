@@ -1,0 +1,10 @@
+D:\Programming\VisualC#\Week11\GUIpizza\GUIpizza\bin\Debug\GUIpizza.exe
+D:\Programming\VisualC#\Week11\GUIpizza\GUIpizza\bin\Debug\GUIpizza.pdb
+D:\Programming\VisualC#\Week11\GUIpizza\GUIpizza\obj\Debug\GUIpizza.csprojAssemblyReference.cache
+D:\Programming\VisualC#\Week11\GUIpizza\GUIpizza\obj\Debug\GUIpizza.FormMain.resources
+D:\Programming\VisualC#\Week11\GUIpizza\GUIpizza\obj\Debug\GUIpizza.Properties.Resources.resources
+D:\Programming\VisualC#\Week11\GUIpizza\GUIpizza\obj\Debug\GUIpizza.csproj.GenerateResource.cache
+D:\Programming\VisualC#\Week11\GUIpizza\GUIpizza\obj\Debug\GUIpizza.csproj.CoreCompileInputs.cache
+D:\Programming\VisualC#\Week11\GUIpizza\GUIpizza\obj\Debug\GUIpizza.exe
+D:\Programming\VisualC#\Week11\GUIpizza\GUIpizza\obj\Debug\GUIpizza.pdb
+D:\Programming\VisualC#\Week11\GUIpizza\GUIpizza\obj\Debug\GUIpizza.FormHelp.resources
