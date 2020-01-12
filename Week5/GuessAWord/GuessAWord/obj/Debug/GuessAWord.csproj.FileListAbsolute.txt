@@ -1,0 +1,9 @@
+D:\Programming\VisualC#\Week5\GuessAWord\GuessAWord\bin\Debug\GuessAWord.exe
+D:\Programming\VisualC#\Week5\GuessAWord\GuessAWord\bin\Debug\GuessAWord.pdb
+D:\Programming\VisualC#\Week5\GuessAWord\GuessAWord\obj\Debug\GuessAWord.csprojAssemblyReference.cache
+D:\Programming\VisualC#\Week5\GuessAWord\GuessAWord\obj\Debug\GuessAWord.GuessWord.resources
+D:\Programming\VisualC#\Week5\GuessAWord\GuessAWord\obj\Debug\GuessAWord.Properties.Resources.resources
+D:\Programming\VisualC#\Week5\GuessAWord\GuessAWord\obj\Debug\GuessAWord.csproj.GenerateResource.cache
+D:\Programming\VisualC#\Week5\GuessAWord\GuessAWord\obj\Debug\GuessAWord.csproj.CoreCompileInputs.cache
+D:\Programming\VisualC#\Week5\GuessAWord\GuessAWord\obj\Debug\GuessAWord.exe
+D:\Programming\VisualC#\Week5\GuessAWord\GuessAWord\obj\Debug\GuessAWord.pdb

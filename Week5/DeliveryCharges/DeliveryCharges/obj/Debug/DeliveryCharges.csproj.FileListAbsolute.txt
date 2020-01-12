@@ -1,0 +1,9 @@
+D:\Programming\VisualC#\Week5\DeliveryCharges\DeliveryCharges\bin\Debug\DeliveryCharges.exe
+D:\Programming\VisualC#\Week5\DeliveryCharges\DeliveryCharges\bin\Debug\DeliveryCharges.pdb
+D:\Programming\VisualC#\Week5\DeliveryCharges\DeliveryCharges\obj\Debug\DeliveryCharges.csprojAssemblyReference.cache
+D:\Programming\VisualC#\Week5\DeliveryCharges\DeliveryCharges\obj\Debug\DeliveryCharges.Properties.Resources.resources
+D:\Programming\VisualC#\Week5\DeliveryCharges\DeliveryCharges\obj\Debug\DeliveryCharges.csproj.GenerateResource.cache
+D:\Programming\VisualC#\Week5\DeliveryCharges\DeliveryCharges\obj\Debug\DeliveryCharges.csproj.CoreCompileInputs.cache
+D:\Programming\VisualC#\Week5\DeliveryCharges\DeliveryCharges\obj\Debug\DeliveryCharges.exe
+D:\Programming\VisualC#\Week5\DeliveryCharges\DeliveryCharges\obj\Debug\DeliveryCharges.pdb
+D:\Programming\VisualC#\Week5\DeliveryCharges\DeliveryCharges\obj\Debug\DeliveryCharges.DeliveryCharges.resources
